@@ -14,6 +14,9 @@ Once the bot has collected sufficient information about a case, it can suggest a
 ## How we're building it
 Motion.ai and Coggle
 
+## Current Applicaton 
+Houston, TX
+
 ## Getting Involved
 Check out our [issues list](https://github.com/kaiservonarctic/Tenant-Assistance-Chatbot/issues) and tackle any problem you want! 
 
